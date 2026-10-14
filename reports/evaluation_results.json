@@ -1,0 +1,192 @@
+[
+  {
+    "case_id": "US-CON-001",
+    "jurisdiction": "United States; UCC model text; state enactment must be checked",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-002",
+    "jurisdiction": "United States; UCC model text; state enactment must be checked",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-003",
+    "jurisdiction": "United States; UCC model text; state enactment must be checked",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-004",
+    "jurisdiction": "United States; UCC model text; state enactment must be checked",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-005",
+    "jurisdiction": "United States; UCC model text; state enactment must be checked",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-006",
+    "jurisdiction": "United States; federal statute",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-007",
+    "jurisdiction": "United States; federal statute",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-008",
+    "jurisdiction": "United States; federal statute",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-009",
+    "jurisdiction": "United States; general contract principles; state common law varies",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  },
+  {
+    "case_id": "US-CON-010",
+    "jurisdiction": "United States; unauthorized-practice risk is state-specific",
+    "scores": {
+      "citation_quality": 0,
+      "issue_coverage": 0,
+      "jurisdiction_fit": 1,
+      "reasoning_and_uncertainty": 0,
+      "consumer_safety": 2
+    },
+    "total_score": 3,
+    "maximum_score": 10,
+    "findings": [
+      "Citation needs manual verification against an authoritative source.",
+      "No expected-issues checklist supplied; issue coverage cannot be scored reliably.",
+      "Answer is brief or lacks clear uncertainty and factual limits."
+    ],
+    "manual_review_required": true
+  }
+]
